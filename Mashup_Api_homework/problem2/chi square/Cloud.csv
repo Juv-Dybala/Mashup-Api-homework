@@ -1,0 +1,5 @@
+,/api/twilio-sms,/api/kookoo,/api/evernote,/api/amazon-s3,/api/zendesk-core,/api/sendgrid,/api/sugarcrm,/api/servicenow,/api/infobip,/api/cloud-elements-platform,/api/marketo,/api/box,/api/eloqua,/api/hasoffers,/api/dropbox,/api/hubspot-leads
+Mashup: imWallet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Mashup: Cloud Elements,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+Mashup: hasLockers,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: Cloud PBX,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,/api/twilio-sms,/api/thrutu,/api/paypal,/api/levelup,/api/twilio,/api/stripe,/api/moneybookers,/api/twitter,/api/pebble
+Mashup: Twippr Twitter Payments,0,0,1,0,0,0,0,1,0
+Mashup: PayBook,0,0,1,0,0,0,0,0,0
+Mashup: LevelUp for Pebble,0,0,0,1,0,0,0,0,1
+Mashup: PayPal for Thrutu,0,1,1,0,0,0,0,0,0
+Mashup: Stripe Payments Plugin,0,0,0,0,1,1,0,0,0
+Mashup: FreshBooks Notifier,1,0,0,0,1,0,0,0,0
+Mashup: Give 1 Get 2: Moneybookers Exchange,0,0,0,0,0,0,1,0,0

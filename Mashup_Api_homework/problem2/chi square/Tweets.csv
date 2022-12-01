@@ -1,0 +1,6 @@
+,/api/twitter-streaming,/api/facebook,/api/bing,/api/flickr,/api/google-maps,/api/twitter,/api/youtube
+Mashup: TagsInAction,0,1,0,1,0,1,1
+Mashup: Utwitbook,0,0,1,0,1,1,0
+Mashup: Hashtag Suggestions,0,0,0,0,0,1,0
+Mashup: Geotwts,1,0,0,0,1,0,0
+Mashup: BlastFollow,0,0,0,0,0,1,0

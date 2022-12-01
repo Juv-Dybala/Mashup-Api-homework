@@ -1,0 +1,13 @@
+,/api/highwire,/api/shopify-admin,/api/twitter,/api/fedex,/api/amazon-product-advertising,/api/volusion-shopping-cart,/api/dhl,/api/sears,/api/twilio-sms,/api/paypal,/api/postalmethods,/api/bigcommerce,/api/endicia-label-server,/api/ambassador,/api/ups-shipping,/api/facebook,/api/etsy,/api/3dcart,/api/google-checkout,/api/goodsie,/api/twilio,/api/google-maps,/api/usps-trackconfirm-fields,/api/payvment,/api/ebay,/api/channeladvisor,/api/box,/api/uship,/api/shipstation,/api/magento-soap
+Mashup: ShipStation,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1,1
+Mashup: BoatTrader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: PostalMethods and Box.net,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mashup: Uship on Cycletrader,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: Amazon Prime Search,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mashup: uShip on Ritchie Bros. Auctioneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: Zipments,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mashup: UPS Tracking,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mashup: TrackThis,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mashup: MarineTraffic.com: Live Ships Map,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mashup: FedEx Office and Box.net,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mashup: FedEx Tracking,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+,/api/facebook,/api/mapbox,/api/google-maps,/api/runkeeper-health-graph,/api/twitter,/api/google-openid,/api/foursquare
+Mashup: Whapl,0,0,1,0,0,0,0
+Mashup: WunderWalk,0,0,1,0,0,0,1
+Mashup: Simple Latitude,1,0,0,0,1,1,0
+Mashup: RunKeeper,0,1,0,1,0,0,0

@@ -1,0 +1,5 @@
+,/api/twilio-sms,/api/google-search,/api/twilio,/api/google-maps,/api/heroku,/api/twitter,/api/shizzow,/api/beer-mapping,/api/brewerydb
+Mashup: BeerWhere,0,1,0,1,0,0,0,1,0
+Mashup: Beer Signal,0,0,0,0,0,1,1,0,0
+Mashup: North Carolina Breweries,0,0,0,0,0,0,0,0,1
+Mashup: TXT Beer,1,0,1,0,1,0,0,0,0

@@ -1,0 +1,14 @@
+,/api/canadian-bitcoin-index,/api/coinbase,/api/cryptsy,/api/bitcurex,/api/bitstamp-http,/api/ltcoin,/api/mt-gox,/api/mcxnow,/api/bitrix24,/api/coins-e,/api/cryptocoin-charts,/api/vircurex,/api/bitcoin-charts-markets,/api/coinkite,/api/campbx,/api/bitfinex,/api/coindesk
+Mashup: Bitcoin Ego,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+Mashup: Bitcoin Calculator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mashup: CoinDesk App,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mashup: Bitwat.ch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mashup: Bitcoin Exchange Rates,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mashup: BitcoinIndexes,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Mashup: CoinDesk Bitcoin Price Index (BPI),0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+Mashup: Bitcoin ATM,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mashup: Best Bitcoin Price,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mashup: Bitcoin Checkout,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mashup: Bitcoin Price Ticker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Mashup: Coinstackr,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Mashup: Bitdango Market Search,0,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,0

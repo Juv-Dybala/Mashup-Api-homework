@@ -1,0 +1,4 @@
+,/api/rentometer,/api/yelp-fusion,/api/amazon-s3,/api/geocoder,/api/google-maps,/api/apartmentsapart,/api/zillow,/api/factual-v3,/api/walk-score,/api/socrata-open-data,/api/microsoft-bing-maps,/api/trulia,/api/amazon-ec2
+Mashup: CribQ Rental Housing Dashboard,1,0,1,0,1,0,0,0,0,0,1,0,1
+Mashup: ADDA ERP,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mashup: BetterHome,0,1,0,1,1,0,1,1,1,1,0,1,0

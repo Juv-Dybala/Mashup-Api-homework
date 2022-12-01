@@ -1,0 +1,6 @@
+,/api/facebook,/api/twilio,/api/sendgrid,/api/zillow,/api/nyc-open-data,/api/genability,/api/donorschoose,/api/amazon-rds-relational-database-service,/api/amazon-ec2,/api/world-bank-indicators,/api/amazon-ses
+Mashup: The Energy Map,0,0,0,0,0,0,0,0,0,1,0
+Mashup: Simple Energy,1,1,1,1,0,0,0,1,1,0,1
+Mashup: Energy TACO,0,0,0,0,0,1,0,0,0,0,0
+Mashup: wattQuiz,0,0,0,0,1,1,1,0,0,0,0
+Mashup: Whatsmypower,0,0,0,0,0,1,0,0,0,0,0

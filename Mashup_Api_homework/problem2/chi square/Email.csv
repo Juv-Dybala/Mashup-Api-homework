@@ -1,0 +1,18 @@
+,/api/highrise,/api/contextio,/api/business-profiles,/api/campaign-monitor,/api/dropbox,/api/twilio-sms,/api/flickr,/api/enthusem,/api/google-app-engine,/api/aol-open-auth,/api/netvibes,/api/spamon,/api/constantcontact,/api/mailchimp,/api/mailcheap,/api/aol-open-mail,/api/twilio,/api/google-apps-email-migration,/api/box,/api/business-alerts,/api/fullcontact-person
+Mashup: Mailcheap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Mashup: HuliMail,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Mashup: Contentbox,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mashup: Analytics Edge Connector for Constant Contact,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mashup: EmailAmbush,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Mashup: Gmail and Box.net,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: Desktop email clients for Box.net,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: Enthusem and Box.net,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+Mashup: AOL Mail on Netvibes,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+Mashup: Springbaud for The Raiser's Edge,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Mashup: SpamOn Disposable Emails,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Mashup: Context.IO/Highrise Integration,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mashup: gMOVE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Mashup: Tout,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Mashup: Google Apps and Box.net,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Mashup: Notifyr,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mashup: Mailmaps Email Marketing,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

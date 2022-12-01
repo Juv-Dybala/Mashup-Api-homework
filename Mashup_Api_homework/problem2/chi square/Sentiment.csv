@@ -1,0 +1,5 @@
+,/api/facebook,/api/facebook-graph,/api/viralheat,/api/twitter,/api/semantria,/api/google-app-engine,/api/google-visualization,/api/datumbox,/api/bitext
+Mashup: Twitter Mood Reader,0,0,0,1,0,1,0,0,0
+Mashup: Facebook Sentiment Analysis Tool,1,1,0,0,0,0,0,1,0
+Mashup: SemantAPI,0,0,1,0,1,0,0,0,1
+Mashup: TwitGraph,0,0,0,1,0,1,1,0,0

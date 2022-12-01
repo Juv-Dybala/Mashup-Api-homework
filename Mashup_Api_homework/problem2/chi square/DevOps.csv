@@ -1,0 +1,2 @@
+,/api/gitlab,/api/amazon-s3,/api/slack-incoming-webhooks,/api/datadog,/api/github,/api/hetzner,/api/new-relic,/api/circleci,/api/digitalocean,/api/bugsnag,/api/gmail,/api/sms
+Mashup: DeployPlace,1,1,1,1,1,1,1,1,1,1,1,1

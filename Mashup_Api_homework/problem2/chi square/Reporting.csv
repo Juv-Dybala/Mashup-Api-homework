@@ -1,0 +1,8 @@
+,/api/facebook,/api/shopify-admin,/api/woocommerce,/api/seomoz,/api/google-webmaster-tools,/api/google-analytics-managment,/api/google-adsense,/api/wordpressorg,/api/google-adwords,/api/mozscape,/api/mailchimp,/api/sendy
+Mashup: Analytics Edge Connector for MailChimp,0,0,0,0,0,0,0,0,0,0,1,0
+Mashup: Analytics Edge Connector for Google Analytics,0,0,0,0,0,1,0,0,0,0,0,0
+Mashup: Analytics Edge Connector for Moz,0,0,0,1,0,0,0,0,0,1,0,0
+Mashup: Analytics Edge Connector for Google Webmaster Tools,0,0,0,0,1,0,0,0,0,0,0,0
+Mashup: KPI watchdog,1,0,1,0,0,1,1,1,0,0,0,1
+Mashup: Analytics Edge Connector for Shopify,0,1,0,0,0,0,0,0,0,0,0,0
+Mashup: Analytics Edge Connector for Google AdWords,0,0,0,0,0,0,0,0,1,0,0,0
